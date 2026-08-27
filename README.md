@@ -1,7 +1,6 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  Hi, I'm Anshuman 👋
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:0077B5&height=200&section=header&text=Hi,%20I'm%20Anshuman%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%9A%80;Building+with+Python+%26+JavaScript;Always+Learning+%2C+Always+Shipping;Welcome+to+my+GitHub+Profile+!" alt="Typing SVG" />
@@ -95,17 +94,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anshuman24singh&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman24singh&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anshuman24singh&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anshuman24singh&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshuman24singh&theme=radical&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Anshuman24singh&theme=radical&hide_border=true" alt="streak stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshuman24singh&theme=react-dark&hide_border=true" alt="activity graph" />
 </p>
+
+> ⚠️ These are community-run mirrors, which stay up better than the official ones but can still hiccup under load. For a version that **never** depends on someone else's server, see the "Guaranteed to always render" section below.
 
 ---
 
@@ -117,13 +118,24 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Snake — needs one-time setup
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anshuman24singh/Anshuman24singh/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
+This won't show anything until you turn it on (that's why it was blank):
 
-> ℹ️ To make the snake animation work, add this GitHub Action to your profile repo: [platane/snk](https://github.com/Platane/snk) — it auto-generates the `output` branch and SVG shown above.
+1. In your `Anshuman24singh/Anshuman24singh` repo, go to **Actions → New workflow → set up a workflow yourself**
+2. Paste in the workflow from [platane/snk](https://github.com/Platane/snk#-how-to-use) (it's ~15 lines of YAML, copy straight from their README)
+3. Commit it. The Action runs once immediately and then daily, creating an `output` branch with the SVG below
+4. **Only after step 3 has run once** will this image appear:
+
+```
+![snake](https://raw.githubusercontent.com/Anshuman24singh/Anshuman24singh/output/github-contribution-grid-snake-dark.svg)
+```
+
+---
+
+### 📊 Guaranteed to always render (no third-party server)
+
+If you want stats that never go down, use [lowlighter/metrics](https://github.com/lowlighter/metrics) — a GitHub Action that generates your stats as an SVG and **commits it directly into your repo**. Since it's a static image in your own repo rather than a live call to someone else's server, it can't 503 on you. Setup is a workflow file (their README has a copy-paste template); once it runs once, embed it the same way as the snake image above.
 
 ---
 
@@ -136,7 +148,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anshuman24singh/Anshuman24singh/main/footer-wave.svg" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C7B7&height=120&section=footer" />
 </p>
 
 <p align="center">
